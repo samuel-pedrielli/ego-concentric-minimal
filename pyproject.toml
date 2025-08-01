@@ -1,0 +1,8 @@
+
+[project]
+name = "ego-concentric"
+version = "0.0.1"
+description = "Minimal experiment skeleton for concentric identity regularization and welfare coupling"
+authors = [{name="Samuel Pedrielli"}]
+readme = "README.md"
+requires-python = ">=3.9"
