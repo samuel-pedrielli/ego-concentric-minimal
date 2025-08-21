@@ -1,3 +1,5 @@
+“Deprecated — replaced by ego-centric-agi”
+
 # Concentric EGO — Minimal Experiment (skeleton)
 
 Small, clean starting point to explore an **identity regularizer** (`L_id`) and an **identity–welfare coupling** (`L_welfare`) on instruction‑tuned LLMs.
